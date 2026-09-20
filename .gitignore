@@ -1,0 +1,13 @@
+# Build output
+bin/
+obj/
+dist/
+*.exe
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Release packages (ارفعها في Releases وليس في الكود)
+*.zip
