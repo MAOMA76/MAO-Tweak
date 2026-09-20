@@ -2,7 +2,7 @@
 
 # ⚡ Tweak
 
-**أداة احترافية لتحسين ومراقبة ويندوز — بواجهة أنيقة ولغتين**
+**أداة احترافية لتحسين ومراقبة ويندوز**
 
 **A professional Windows optimizer & hardware monitor — elegant UI, bilingual (AR/EN)**
 
