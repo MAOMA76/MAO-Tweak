@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Tweak
+#  Tweak
 
 **أداة احترافية لتحسين ومراقبة ويندوز**
 
@@ -14,19 +14,19 @@
 
 ---
 
-## 📥 التحميل | Download
+##  التحميل | Download
 
 حمّل أحدث نسخة من صفحة [Releases](../../releases) — ملف `Tweak.zip`، فك الضغط وشغّل `Tweak.exe` **كمسؤول**.
 
-> ⚠️ **ملاحظة SmartScreen:** البرنامج غير موقّع رقمياً حالياً، لذلك قد يظهر تحذير أزرق عند أول تشغيل. اضغط **More info → Run anyway** — هذا طبيعي لأي برنامج جديد غير موقّع.
+>  **ملاحظة SmartScreen:** البرنامج غير موقّع رقمياً حالياً، لذلك قد يظهر تحذير أزرق عند أول تشغيل. اضغط **More info → Run anyway** — هذا طبيعي لأي برنامج جديد غير موقّع.
 >
 > **SmartScreen note:** The app isn't code-signed yet, so Windows may show a blue warning on first run. Click **More info → Run anyway** — this is normal for new unsigned apps.
 
 ---
 
-## ✨ المميزات | Features
+##  المميزات | Features
 
-### 📊 لوحة مراقبة حية | Live Dashboard
+###  لوحة مراقبة حية | Live Dashboard
 - **عداد دائري** لاستهلاك الرام يتحدث لحظياً
 - المعالج: الاستهلاك، التردد، **الحرارة**
 - الرام: الاستهلاك، **التردد الفعلي**، الحرارة (إن توفر الحساس)
@@ -36,29 +36,29 @@
 
 > Circular RAM gauge, CPU/GPU/SSD **temperatures**, RAM speed, storage & process counters — all updated live.
 
-### ⚡ تنظيف ذكي | Smart Cleaning
+###  تنظيف ذكي | Smart Cleaning
 - تنظيف الرام والكاش (Standby) بطريقة RAMMap الرسمية
 - قتل تطبيقات الخلفية الزائدة وتعطيلها نهائياً
 - تنظيف الملفات المؤقتة + تفعيل Storage Sense
 - خطة الأداء العالي
 
-### 🛠️ إدارة خدمات تفاعلية | Interactive Services Manager
+###  إدارة خدمات تفاعلية | Interactive Services Manager
 - 28 خدمة وميزة بشرح واضح — فعّل أو عطّل ما تريده أنت
 - زر استعادة الوضع الافتراضي بأي وقت
 - تعطيل Game DVR وCopilot وWidgets وOneDrive التلقائي
 
-### 🗑️ Debloat
+###  Debloat
 - حذف 20+ تطبيق مدمج زائد (لا يرجعون مع التحديثات)
 - تعطيل مهام التتبع المجدولة (Telemetry)
 - تعطيل إعلانات ويندوز والاقتراحات والتلميحات الترويجية
 
-### 🌍 لغتان | Bilingual
+###  لغتان | Bilingual
 - زر تبديل فوري بين **العربية والإنجليزية** — كل النصوص والشرح مترجم
 - Instant **Arabic ⇄ English** toggle for the entire UI
 
 ---
 
-## 🖥️ التوافق | Compatibility
+##  التوافق | Compatibility
 
 | | |
 |---|---|
@@ -68,7 +68,7 @@
 
 ---
 
-## 🔨 البناء من المصدر | Build from Source
+##  البناء من المصدر | Build from Source
 
 ```bash
 cd src
@@ -80,7 +80,7 @@ dotnet publish -c Release -o ./dist
 
 ---
 
-## ⚖️ إخلاء مسؤولية | Disclaimer
+##  إخلاء مسؤولية | Disclaimer
 
 استخدم البرنامج على مسؤوليتك الخاصة. كل التعديلات قابلة للاستعادة من داخل البرنامج نفسه (زر "استعادة الافتراضي")، لكن يُنصح بإنشاء نقطة استعادة نظام قبل الاستخدام الأول.
 
@@ -88,17 +88,17 @@ Use at your own risk. All changes are reversible from within the app ("Restore d
 
 ---
 
-## 📚 التقنيات | Built With
+##  التقنيات | Built With
 
 - **C# / .NET 8** — WinForms
 - **[LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor)** — قراءة حساسات الحرارة والترددات (MPL-2.0)
 
 ---
 
-## 📄 الترخيص | License
+##  الترخيص | License
 
 MIT License — انظر ملف [LICENSE](LICENSE)
 
 <div align="center">
-صُنع بـ 🤎 بواسطة <b>MAO</b>
+صُنع بـ بواسطة <b>MAO</b>
 </div>
